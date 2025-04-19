@@ -1,16 +1,115 @@
-## Hi there 👋
+# 🐻 Henrique Corazza 
 
-<!--
-**HenriqueCorazza/HenriqueCorazza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### `Estudante BSI - Back-End` ##
+     
+Estudante de Sistemas de Informação no 5º semestre, com desenvolvimento back-end em Java (Spring Rest), C e C++ e front-end HTML, Css e JavaScript. Busco minha primeira oportunidade profissional na área de tecnologia, onde eu possa aplicar meus conhecimentos, aprender com desafios reais e contribuir com soluções eficientes. Sou proativo, curioso e comprometido com o aprendizado contínuo, se o emprego permitir.
+</br>
 
-Here are some ideas to get you started:
+- Desenvolvedor Back-End
+- Bacharelado em Sistemas de Informação - Unoeste FIPP
+- Francês Básico
+- Inglês intermediário
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</br>
+<p align="left">
+     <a href="https://mail.google.com/mail/u/0/#search/hick.crzz%40gmail.com">
+        <img 
+            alt="Gmail" 
+            title="Gmail" 
+            src="https://custom-icon-badges.demolab.com/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/henrique-corazza">
+        <img 
+            alt="Instagram" 
+            title="Perfil no Instagram"
+            src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+     <a href="https://www.linkedin.com/in/henrique-corazza">
+          <img 
+               alt="Linkedin" 
+               title="Perfil no Linkedin" 
+               src="https://custom-icon-badges.demolab.com/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="35px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+<img 
+    align="left" 
+    alt="PostGresSQL" 
+    title="PostGresSQL"
+    width="35px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+<img 
+    align="left" 
+    alt="C" 
+    title="C"
+    width="35px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+</br>
+
+#
+
+### 📊 Estatísticas
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      width="70%"
+      height="200"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueCorazza&theme=gruvbox_light&layout=compact&custom_title=Tecnologias&langs_count=10" 
+  />
+
