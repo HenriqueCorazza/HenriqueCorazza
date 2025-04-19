@@ -17,16 +17,16 @@ Estudante de Sistemas de Informação no 5º semestre, com desenvolvimento back-
             alt="Gmail" 
             title="Gmail" 
             src="https://custom-icon-badges.demolab.com/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/henrique-corazza">
-        <img 
-            alt="Instagram" 
-            title="Perfil no Instagram"
-            src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
      <a href="https://www.linkedin.com/in/henrique-corazza">
           <img 
                alt="Linkedin" 
                title="Perfil no Linkedin" 
                src="https://custom-icon-badges.demolab.com/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/henrique-corazza](https://www.instagram.com/henriquecorazzaa/">
+        <img 
+            alt="Instagram" 
+            title="Perfil no Instagram"
+            src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
 
 
