@@ -22,7 +22,7 @@ Estudante de Sistemas de Informação no 5º semestre, com desenvolvimento back-
                alt="Linkedin" 
                title="Perfil no Linkedin" 
                src="https://custom-icon-badges.demolab.com/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/henrique-corazza](https://www.instagram.com/henriquecorazzaa/">
+    <a href="https://www.instagram.com/henriquecorazzaa/">
         <img 
             alt="Instagram" 
             title="Perfil no Instagram"
