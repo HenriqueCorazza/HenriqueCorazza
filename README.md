@@ -2,7 +2,7 @@
 
 ### `Estudante BSI - Back-End` ##
      
-Estudante de Sistemas de Informação no 5º semestre, com desenvolvimento back-end em Java (Spring Rest), C e C++ e front-end HTML, Css e JavaScript. Busco minha primeira oportunidade profissional na área de tecnologia, onde eu possa aplicar meus conhecimentos, aprender com desafios reais e contribuir com soluções eficientes. Sou proativo, curioso e comprometido com o aprendizado contínuo, se o emprego permitir.
+Estudante de Sistemas de Informação no 6º semestre, com desenvolvimento back-end em Java (Spring Rest), C e C++ e front-end HTML, Css e JavaScript. Busco minha primeira oportunidade profissional na área de tecnologia, onde eu possa aplicar meus conhecimentos, aprender com desafios reais e contribuir com soluções eficientes. Sou proativo, curioso e comprometido com o aprendizado contínuo, se o emprego permitir.
 </br>
 
 - Desenvolvedor Back-End
