@@ -2,13 +2,12 @@
 
 ### `Estudante BSI - Back-End` ##
      
-Estudante de Sistemas de Informação no 6º semestre, com desenvolvimento back-end em Java (Spring Rest), C e C++ e front-end HTML, Css e JavaScript. Busco minha primeira oportunidade profissional na área de tecnologia, onde eu possa aplicar meus conhecimentos, aprender com desafios reais e contribuir com soluções eficientes. Sou proativo, curioso e comprometido com o aprendizado contínuo, se o emprego permitir.
-</br>
+Estudante de Sistemas de Informação (6/8) UNOESTE | Full Stack Developer | Java (Spring Boot), React & C#.
 
 - Desenvolvedor Back-End
 - Bacharelado em Sistemas de Informação - Unoeste FIPP
-- Francês Básico
-- Inglês intermediário
+- Francês Intermediário
+- Inglês Intermediário/Técnico (documentação, leitura/escrita)
 
 </br>
 <p align="left">
