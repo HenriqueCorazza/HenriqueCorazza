@@ -1,6 +1,6 @@
 # 🐻 Henrique Corazza 
 
-### `Estudante BSI - Back-End` ##
+### `Estudante BSI - Full Stack` ##
      
 Estudante de Sistemas de Informação (6/8) UNOESTE | Full Stack Developer | Java (Spring Boot), React & C#.
 
